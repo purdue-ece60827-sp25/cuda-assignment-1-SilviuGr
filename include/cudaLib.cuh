@@ -7,6 +7,7 @@
 
 	#include <cuda.h>
 	#include <curand_kernel.h>
+	
 
 	// Uncomment this to suppress console output
 	// #define DEBUG_PRINT_DISABLE

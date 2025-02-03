@@ -11,6 +11,7 @@
 	#include <chrono>
 	#include <cstring>
 	#include <cstdarg>
+	#include <curand.h>
 	
 	// Uncomment this to suppress console output
 	// #define DEBUG_PRINT_DISABLE

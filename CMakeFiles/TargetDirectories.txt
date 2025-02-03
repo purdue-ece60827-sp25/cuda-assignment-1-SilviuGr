@@ -1,0 +1,7 @@
+/home/gruber13/build/lab1/cuda-assignment-1-SilviuGr/CMakeFiles/lab1.dir
+/home/gruber13/build/lab1/cuda-assignment-1-SilviuGr/CMakeFiles/edit_cache.dir
+/home/gruber13/build/lab1/cuda-assignment-1-SilviuGr/CMakeFiles/rebuild_cache.dir
+/home/gruber13/build/lab1/cuda-assignment-1-SilviuGr/src/CMakeFiles/cudaLib.dir
+/home/gruber13/build/lab1/cuda-assignment-1-SilviuGr/src/CMakeFiles/cpuLib.dir
+/home/gruber13/build/lab1/cuda-assignment-1-SilviuGr/src/CMakeFiles/edit_cache.dir
+/home/gruber13/build/lab1/cuda-assignment-1-SilviuGr/src/CMakeFiles/rebuild_cache.dir
